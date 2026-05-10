@@ -1,4 +1,4 @@
-# 🤖 100 Days of Machine Learning
+# 🤖Machine Learning Library
 
 Welcome to my comprehensive collection of machine learning notebooks! This repository contains 66+ Jupyter notebooks covering various ML concepts, algorithms, and techniques implemented from scratch and using popular libraries.
 
